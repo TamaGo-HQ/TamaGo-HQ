@@ -1,7 +1,7 @@
 ## About Me:
 Embedded Software Engineer.
-Sea Turtle Advocate. 
-Save the Turtles, Save the Earth, Save yourself.
+Sea Turtle Advocate.  <br/>
+**Save the Turtles, Save the Earth, Save yourself.**
 
 ## Tech Stack:
 - **Languages**: C, Python, VHDL
