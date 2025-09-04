@@ -1,6 +1,5 @@
 ## About Me:
-Embedded Software Engineer.
-Sea Turtle Advocate.  <br/>
+Embedded Software Engineer.<br/>
 **Save the Turtles, Save the Earth, Save yourself.**
 
 ## Tech Stack:
