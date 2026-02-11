@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10d55c98-47bb-47fd-befa-5addd6f4e7f0" alt="My image" width="auto">
+  <img src="homepage.jpg" alt="My image" width="auto">
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@
 𝚁𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚟𝚒𝚊 𝚎𝚖𝚊𝚒𝚕 𝚘𝚛 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗 𝚒𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚗𝚊 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 😉<br>
 </p>
 <p align="center">
-<img width="500" height="43" alt="Image" src="https://github.com/user-attachments/assets/3e27d1e0-cceb-4724-b0bb-298aaee34a33" />
+<img width="500" height="43" alt="Image" src="border.png" />
 </p>
